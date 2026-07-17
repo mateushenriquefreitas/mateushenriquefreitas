@@ -226,21 +226,7 @@ Assim como uma missão espacial exige precisão e inovação, cada projeto repre
 
 <br/>
 
-## 📡 Estação de Contato
 
-<div align="center">
-
-<a href="https://github.com/mateushenrique">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/mateushenrique">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="mailto:mateus@email.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-</div>
 
 <br/>
 
